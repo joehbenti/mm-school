@@ -1,2 +1,2 @@
 # mm-school
-mm school dashboard with template
+for school dashboard 
